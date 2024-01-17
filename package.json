@@ -9,13 +9,14 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "latest",
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
     "react": "latest",
+    "react-admin": "^4.16.6",
     "react-dom": "latest",
-    "react-scripts": "latest",
-    "@babel/plugin-proposal-private-property-in-object": "latest"
+    "react-scripts": "latest"
   },
   "browserslist": {
     "production": [
